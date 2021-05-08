@@ -1,8 +1,7 @@
 # Docker-react tutorial exercise
 
-This is a simple react project created to learn the basics of Docker.
+This is a simple react project created to learn the basics of Docker. It was created under the guidance of [Steven Grider's Udemy course](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/?src=sac&kw=docker+kubernetes+complete)
 This project also uses Travis CI to run automated tests and automatically deploy updates to amazon AWS.
-This was created with the guidance of [Steven Grider's Udemy course](https://www.udemy.com/course/docker-and-kubernetes-the-complete-guide/?src=sac&kw=docker+kubernetes+complete)
 
 # Getting started
 
